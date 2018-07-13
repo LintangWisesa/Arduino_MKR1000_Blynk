@@ -33,7 +33,7 @@ To build this project, you need the following items:
 
 - On your project, add 2 button widget & a gauge. Set each widget as the picture below.
 
-  ![Blynk App](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+  ![Blynk App](https://raw.githubusercontent.com/LintangWisesa/Arduino_MKR1000_Blynk/master/Blynk_App.png)
 
 #
 
@@ -41,7 +41,7 @@ To build this project, you need the following items:
 
 - Connect your parts to Arduino MKR1000 as the following picture:
 
-  ![ArduinoMKR1000 Blynk schematics](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+  ![ArduinoMKR1000 Blynk schematics](https://raw.githubusercontent.com/LintangWisesa/Arduino_MKR1000_Blynk/master/Schematics.png)
 
 #
 
