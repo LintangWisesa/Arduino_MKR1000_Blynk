@@ -23,7 +23,7 @@ To build this project, you need the following items:
   - Android ([download here](https://play.google.com/store/apps/details?id=cc.blynk))
   - iOS ([download here](https://itunes.apple.com/us/app/blynk-control-arduino-raspberry/id808760481?ls=1&mt=8))
 - WiFi101 library ([read how to install here](https://www.arduino.cc/en/Reference/WiFi101))
-- Blynk library ([download here](https://www.arduino.cc/en/Main/Software))
+- Blynk library ([download here](https://github.com/blynkkk/blynk-library/releases/tag/v0.5.3))
 
 #
 
