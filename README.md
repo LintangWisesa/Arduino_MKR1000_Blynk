@@ -18,6 +18,8 @@ To build this project, you need the following items:
 - 1 Arduino/Genuino MKR1000 board
 - 2 LEDs
 - 1 Potentiometer
+- 1 breadboard
+- some jumper wires
 - Arduino IDE ([download here](https://www.arduino.cc/en/Main/Software))
 - Blynk mobile app 
   - Android ([download here](https://play.google.com/store/apps/details?id=cc.blynk))
